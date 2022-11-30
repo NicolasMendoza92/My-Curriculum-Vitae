@@ -4,7 +4,7 @@ import { Card } from 'react-bootstrap'
 const Icons = () => {
     return (
         <>
-         <h1 className='text-center mb-3'>FullStack developer skills</h1>
+         <h1 className='titles-divider text-center mb-3'>FullStack developer skills</h1>
         <div className='d-flex justify-content-center align-items-center m-5 '>
             <Card className='card-icons' style={{ width: '8rem' }}>
                 <Card.Img variant="top" src="https://res.cloudinary.com/dbv6dgwez/image/upload/v1669652792/CV/React-icon.svg_im2nfb.png" />

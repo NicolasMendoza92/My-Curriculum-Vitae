@@ -19,7 +19,7 @@ const Cursos = () => {
 
     return (
         <div className='mt-4 mb-4'>
-            <h1 className='text-center mb-3'>My Web Projects </h1>
+            <h1 className='text-center mb-3 titles-divider'>My Web Projects </h1>
             <Row>
                 <Col className="col-12  col-lg-4 d-flex justify-content-center">
                     <Card onClick={goToGit} className="bg-dark text-white mb-2 container-photo-home">

@@ -4,6 +4,9 @@
    min-height:100hv;
 }
 
+.titles-divider{
+  color: #4661bb;
+}
 /* ESTILO IMAGEN PRINCIPAL */
 .contenedor-img{
     background-image: url(https://p4.wallpaperbetter.com/wallpaper/876/437/102/blue-material-material-design-minimal-art-wallpaper-preview.jpg);

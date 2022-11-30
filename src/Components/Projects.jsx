@@ -5,7 +5,7 @@ import { Card, Col, Row } from 'react-bootstrap';
 const Projects = () => {
     return (
         <div className='mt-4 mb-4'>
-            <h1 className='text-center mb-3'>Interesting Facts</h1>
+            <h1 className='titles-divider text-center mb-3'>Interesting Facts</h1>
             <Row className='m-4'>
                 <Col className="col-12 col-md-6 col-lg-4 d-flex justify-content-center">
                     <Card className='align-items-center' style={{ width: '15rem', border: 'none' }}>
